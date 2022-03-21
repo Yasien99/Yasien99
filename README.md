@@ -15,17 +15,23 @@
 <br>
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasien99&theme=gruvbox" alt="yasien99"  /></p>
-
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasien99&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yasien99&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
+ <div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=yasien99&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        <!--
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <br>
+        -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasien99&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+    </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+</div>
 
 <p>Connect with me on
 <br>	
