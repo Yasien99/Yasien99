@@ -26,10 +26,8 @@
         <br>
         <br>
     </div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasien99&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="AnhellO :: Top Langs" /></p>
+
 </div>
 
 <p>Connect with me on
