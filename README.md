@@ -39,7 +39,7 @@
 &emsp;
 <a target="_blank" href="https://twitter.com/yasien_essam"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://codeforces.com/profile/YasienDaGreat"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></img></a>
+<a target="_blank" href="https://leetcode.com/yasien99/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
 &emsp;
 
 <br>
