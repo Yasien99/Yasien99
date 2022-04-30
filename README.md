@@ -6,7 +6,7 @@
 ## :sassy_man:  About me
 - :school: I am a `Junior` Biomedical Engineering at`Cairo University`
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Data Science` and `software engineering`.
+- :student: I’m currently learning: `Data Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1cnGpCUUnzQ-S_Olhfuqbt95WPefDTdBK/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
