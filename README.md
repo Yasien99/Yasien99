@@ -7,7 +7,7 @@
 - :school: I am a `Junior` Biomedical Engineering at`Cairo University`
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Data Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ZRdYl_XsIEdcpujmRhRtP8IW1uO4NCfG/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/Yasien99/Resume).
 - :nerd_face: Always `learning new things`
 
 <br>
