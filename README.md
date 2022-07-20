@@ -4,7 +4,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` Biomedical Engineering at`Cairo University`
+- :school: I am a `Senior` Biomedical Engineering at`Cairo University`
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Data Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/Yasien99/Resume).
