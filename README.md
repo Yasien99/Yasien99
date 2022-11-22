@@ -4,13 +4,36 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `Senior` Biomedical Engineering at`Cairo University`
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Data Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/Yasien99/Resume).
-- :nerd_face: Always `learning new things`
 
-<br>
+ ## Who am I?
+ ```JavaSCript
+const aboutMe = {
+    name: "Yasien",
+    home: "Cairo, Egypt",
+    education: "Senior Biomedical Engineering at Cairo University",
+    languages: ["Arabic", "English", "German", "Spanish"],
+    hobbies: ["travel", "football", "gaming", "learning languages"]
+};
+```
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1WyLpsFdwwve7A_Hur7Cz-wdenfQh9BKJ/view?usp=sharing).
+
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+### Technologies
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Django-000?&logo=django)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 <br>
 
@@ -34,7 +57,7 @@
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/yasien-essam99/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:yasien.essam99@gmail.com"
+<a target="_blank" href="mailto:yasien.ghalwsh00@eng-st.cu.edu.eg"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://twitter.com/yasien_essam"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
