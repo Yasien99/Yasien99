@@ -1,9 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Yasien Essam</h1>
-     
-<br>
-
-## :sassy_man:  About me
 
  ## Who am I?
  ```JavaSCript
@@ -11,7 +7,7 @@ const aboutMe = {
     name: "Yasien",
     home: "Cairo, Egypt",
     education: "Senior Biomedical Engineering at Cairo University",
-    languages: ["Arabic", "English", "German", "Spanish"],
+    languages: ["Arabic", "English", "German"],
     hobbies: ["travel", "football", "gaming", "learning languages"]
 };
 ```
@@ -22,14 +18,13 @@ const aboutMe = {
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
 ### Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Django-000?&logo=django)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
