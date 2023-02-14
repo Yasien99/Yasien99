@@ -17,14 +17,11 @@ const aboutMe = {
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
 ### Technologies
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
