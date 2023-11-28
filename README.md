@@ -6,7 +6,7 @@
 const aboutMe = {
     name: "Yasien",
     home: "Cairo, Egypt",
-    education: "Fresh Graduate Biomedical Engineering at Cairo University",
+    education: "Fresh Graduate Biomedical Engineer from Cairo University",
     position: "AI Engineer at Inspire for Solutions Development",
     languages: ["Arabic", "English", "German"],
     hobbies: ["travel", "football", "gaming", "learning languages"]
