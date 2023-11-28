@@ -6,17 +6,17 @@
 const aboutMe = {
     name: "Yasien",
     home: "Cairo, Egypt",
-    education: "Senior Biomedical Engineering at Cairo University",
+    education: "Fresh Graduate Biomedical Engineering at Cairo University",
+    position: "AI Engineer at Inspire for Solutions Development",
     languages: ["Arabic", "English", "German"],
     hobbies: ["travel", "football", "gaming", "learning languages"]
 };
 ```
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1WyLpsFdwwve7A_Hur7Cz-wdenfQh9BKJ/view?usp=sharing).
-
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
@@ -50,10 +50,8 @@ const aboutMe = {
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/yasien-essam99/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:yasien.ghalwsh00@eng-st.cu.edu.eg"
+<a target="_blank" href="mailto:yasien.essam10@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://twitter.com/yasien_essam"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://leetcode.com/yasien99/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
 &emsp;
